@@ -3,6 +3,8 @@ CWRU DS Bootcamp Project 1
 
 Here is the breakdown of the final files for your assessment
 
+Project-1_Group3_Proposal is the Proposal Document in the Master
+
 The FINAL_CODE_PYWEATHERMAN Jupyter Notebook has the overall code with the data pull, data for each city to csv and scatterplots. 
 The Images folder has all the Scatter Plots saved. Data for scatterplots was pulled from output_data/WeatherData-Annual-Delta-FINAL.csv
 
