@@ -7,6 +7,8 @@ Project-1_Group3_Proposal is the Proposal Document in the Master
 
 The FINAL_CODE_PYWEATHERMAN Jupyter Notebook has the overall code with the data pull, data for each city to csv and scatterplots. 
 
+PyWeatherman_Stats.ipynb is the Stats Jupyter Notebook 
+
 The Images folder has all the Scatter Plots saved. Data for scatterplots was pulled from output_data/WeatherData-Annual-Delta-FINAL.csv
 
 The Seaborn Heatmap fodler contaisn the Images folders for the 12 cities Heatmap generated using the Seaborn Library Heatmap Panda File folder contains the GMAPS API with the GMAPS overaly of the 12 city markers
